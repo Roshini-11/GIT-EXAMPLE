@@ -30,7 +30,7 @@ public class Java3_4 {
         int array[] = {1, 2, 90, 10, 110};
         System.out.println("Maximum difference is " + maxdif.maxDiff(array, 5));
         System.out.println("This is mangai");
+        System.out.println("This is roshini");
     }
-
 }
 
